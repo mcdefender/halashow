@@ -7,8 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HalashowApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HalashowApplication.class, args); 
-		
+		SpringApplication.run(HalashowApplication.class, args); 		
 	}
 }
  
